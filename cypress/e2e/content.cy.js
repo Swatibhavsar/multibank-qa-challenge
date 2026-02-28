@@ -180,7 +180,7 @@ describe('Content Validation - Marketing & Company Pages', function () {
     });
   });
 
-  describe('Company Page - The Strength Section (Three Boxes)', () => {
+  describe.only('Company Page - The Strength Section (Three Boxes)', () => {
     beforeEach(() => {
       companyPage.visitCompanyPage();
     });

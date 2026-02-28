@@ -182,7 +182,7 @@ describe('Trading Functionality - Spot Trading Section', function () {
       explorePage.getTradingRows().should('have.length.greaterThan', 0);
     });
 
-    it.only('first trading pair row contains expected elements', () => {
+    it('first trading pair row contains expected elements', () => {
       explorePage.getTradingRows().first().then(($firstRow) => {
         cy.wrap($firstRow).find('td').should('have.length', 4);
         cy.wrap($firstRow).find('td').eq(0).invoke('text').should('include', 'MBG');
