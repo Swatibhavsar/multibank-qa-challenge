@@ -1,0 +1,48 @@
+{
+  "spotMarketSection": {
+    "heading": "Spot market",
+    "description": "Discover our cryptocurrency spot market data page, featuring crypto market cap, trading v..."
+  },
+  "tradingCategories": [
+    "Hot",
+    "Gainers",
+    "Losers"
+  ],
+  "topCryptoPricesHeading": "Today's top crypto prices",
+  "expectedCryptoPairs": [
+    {
+      "symbol": "MBG",
+      "fullName": "MultiBank Group"
+    },
+    {
+      "symbol": "BTC",
+      "fullName": "Bitcoin"
+    },
+    {
+      "symbol": "ETH",
+      "fullName": "Ethereum"
+    },
+    {
+      "symbol": "SOL",
+      "fullName": "Solana"
+    },
+    {
+      "symbol": "XRP",
+      "fullName": "XRP"
+    }
+  ],
+  "priceFormatPattern": {
+    "description": "Price should contain $ sign and numbers",
+    "example": "$0.30"
+  },
+  "percentageFormatPattern": {
+    "description": "Percentage change should contain % sign and numbers",
+    "example": "5.80%"
+  },
+  "dataStructure": {
+    "columns": 4,
+    "description": "Each trading pair row should have 4 columns: symbol, price, percentage change, action"
+  },
+  "minTradingPairs": 10,
+  "expectedMinTableRows": 10
+}

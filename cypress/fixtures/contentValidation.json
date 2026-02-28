@@ -1,0 +1,55 @@
+{
+  "homePage": {
+    "cryptoForEveryone": {
+      "heading": "Crypto for everyone",
+      "description": "Simple, secure and speedy. Our platform offers everything from beginner crypto trading to the most advanced features on the market."
+    },
+    "downloadAppLink": {
+      "text": "Download the app",
+      "href": "https://mbio.go.link/6OW91"
+    },
+    "openAccountLink": {
+      "text": "Open an account",
+      "href": "https://trade.mb.io/register"
+    },
+    "fastestWayToTrade": {
+      "heading": "The fastest way to trade",
+      "description": "Trade crypto instantly on mb.io with ultra-fast 40-nanosecond execution and support for 9M+ trades per second."
+    },
+    "creditCardBankTransfers": {
+      "heading": "Credit card & Bank transfers",
+      "description": "Deposit USD or AED via credit card or bank transfer on mb.io, then easily buy crypto and trade FIAT/CRYPTO pairs on our exchange"
+    },
+    "portfolioSection": {
+      "heading": "Securely build your portfolio",
+      "description": "Diversify your crypto portfolio on a highly regulated platform with segregated funds, advanced security, and user-friendly tools to support informed investing."
+    },
+    "expectedCryptos": ["MultiBank Group", "Bitcoin", "Ethereum"]
+  },
+  "companyPage": {
+    "whymultibankh1": "Why MultiBank Group?",
+    "whymultibankp1": "For nearly two decades, MultiBank has built a reputation as one of the world's most trusted financial institutions. With a foundation rooted in regulation, transparency, and technological excellence, we continue to serve millions of clients across the globe with integrity and ambition.",
+    "turnover": "$2 trillion",
+    "turnoverLabel": "Annual turnover",
+    "customers": "2,000,000+",
+    "customersLabel": "Customers worldwide",
+    "offices": "25+",
+    "officesLabel": "Offices globally",
+    "globaleadership": "A tradition of global leadership",
+    "globaleadershipp1": "Founded in 2005, MultiBank has grown into one of the largest financial groups worldwide, driven by a commitment to trust, compliance, and innovation. Our global presence reflects the confidence customers, partners, and institutions place in us.",
+    "innovation": "Innovation with purpose",
+    "innovationp1": "We believe technology should simplify finance. Everything we build is designed to empower users with clarity, security, and accessibility, evolving with the market while keeping clients at the center.",
+    "integrity": "Integrity built into every decision",
+    "integrityp1": "Trust is earned through consistent action. Through rigorous risk management and transparent communication, we prioritise stability, upholding the highest standards across every jurisdiction we operate in.",
+    "strength": "The strength behind MultiBank Group",
+    "getintouch": "Get in touch",
+    "regulation": "Regulation at our core",
+    "regulationp1": "MultiBank operates under strict global oversight to ensure transparency, compliance, and client protection.",
+    "trackrecord": "Proven track record",
+    "trackrecordp1": "With years of global experience, we've remained resilient and reliable through every market cycle.",
+    "security": "Secure & trusted",
+    "securityp1": "Institution-grade infrastructure and strong risk controls safeguard client assets and ensure trusted governance.",
+    "community": "Community & Media",
+    "communityDescription": "The latest news and discussions about MultiBank Group."
+  }
+}
